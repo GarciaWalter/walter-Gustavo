@@ -7,7 +7,7 @@ package jpaa;
 
 /**
  *
- * @author nancy
+ * @author nancyDupla
  */
 public class Jpaa {
 
